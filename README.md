@@ -21,15 +21,25 @@ Git is your notebook at home, while GitHub is Google Drive where you upload and 
 🔄 Git Workflow
 
 Create Project
+
       ↓
+      
 git init
+
       ↓
-git add .
+      
+git add
+.
       ↓
+      
 git commit -m "Message"
+
       ↓
+      
 git remote add origin URL
+
       ↓
+      
 git push origin main
 
 💻 Flow of Git Commands
@@ -41,7 +51,7 @@ git push origin main
    syntax - git init
    
 
-   ![Git Init] (git-commit.png)
+   ![Git Init](git-commit.png)
 
    
 
@@ -52,7 +62,7 @@ git push origin main
    syntax - git add.
    
 
-   ![Git Add] (git-add.png)
+   ![Git Add](git-add.png)
    
 
 4. Git commit -
@@ -63,7 +73,7 @@ git push origin main
     syntax - git commit -m "your message"
 
 
-   ![Git Commit] (git-commit.png)
+   ![Git Commit](git-commit.png)
 
    
 
@@ -74,7 +84,7 @@ git push origin main
    syntax - git push -u origin main
 
 
-   ![Git Push] (git-push.png)
+   ![Git Push](git-push.png)
 
    
 
