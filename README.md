@@ -41,7 +41,7 @@ git push origin main
    syntax - git init
    
 
-   ![Git Add](git-add.png)
+   ![Git Init](git-init.png)
 
    
 
@@ -52,7 +52,7 @@ git push origin main
    syntax - git add.
    
 
-   ![Git Add](git-add.png)
+   ![Git Add] (git-add.png)
    
 
 4. Git commit -
@@ -63,7 +63,7 @@ git push origin main
     syntax - git commit -m "your message"
 
 
-   ![Git Commit](git-commit.png)
+   ![Git Commit] (git-commit.png)
 
    
 
