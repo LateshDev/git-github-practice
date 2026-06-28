@@ -41,7 +41,7 @@ git push origin main
    syntax - git init
    
 
-   ![Git Init](git-init.png)
+   ![Git Init](git-commit.png)
 
    
 
