@@ -34,30 +34,30 @@ git push origin main
 
 💻 Flow of Git Commands
 
-Git int -
+1. Git int -
 
-git init initializes a new Git repository in your project folder. It creates a hidden .git directory where Git stores the project's history and configuration.
+   git init initializes a new Git repository in your project folder. It creates a hidden .git directory where Git stores the project's history and configuration.
 
-syntax - git init
+   syntax - git init
 
-Git add -
+2. Git add -
 
-git add moves files to the staging area. Git will include only staged files in the next commit.
+   git add moves files to the staging area. Git will include only staged files in the next commit.
 
-syntax - git add.
+   syntax - git add.
 
-Git commit -
+3. Git commit -
 
-Saves changes permanently in local repository
-Requires a message describing changes
+    Saves changes permanently in local repository
+    Requires a message describing changes
 
-syntax - git commit -m "your message"
+    syntax - git commit -m "your message"
 
-Git push -
+4. Git push -
 
-Uploads code to remote repository
+   Uploads code to remote repository
 
-syntax - git push -u origin main
+   syntax - git push -u origin main
 
 🎯 Conclusion
 
