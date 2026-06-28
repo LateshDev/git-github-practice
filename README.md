@@ -63,7 +63,7 @@ git push origin main
     syntax - git commit -m "your message"
 
 
-   ![Git Commit] (git-commit.png)
+   ![Git Commit](git-commit.png)
 
    
 
