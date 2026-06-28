@@ -8,7 +8,7 @@ Git is a Version Control System (VCS) that helps developers track changes in the
 
 Real-life example:
 
-Think of Git as the Save feature in a game. Every commit is like a save point that you can return to later.
+Think of Git as the Save feature in a game. Every commit is like a save point that you can return to later
 
 🌐 What is GitHub?
 
@@ -39,25 +39,44 @@ git push origin main
    git init initializes a new Git repository in your project folder. It creates a hidden .git directory where Git stores the project's history and configuration.
 
    syntax - git init
+   
 
-2. Git add -
+   ![Git Add](git-add.png)
+
+   
+
+3. Git add -
 
    git add moves files to the staging area. Git will include only staged files in the next commit.
 
    syntax - git add.
+   
 
-3. Git commit -
+   ![Git Add](git-add.png)
+   
+
+4. Git commit -
 
     Saves changes permanently in local repository
     Requires a message describing changes
 
     syntax - git commit -m "your message"
 
-4. Git push -
+
+   ![Git Commit](git-commit.png)
+
+   
+
+6. Git push -
 
    Uploads code to remote repository
 
    syntax - git push -u origin main
+
+
+   ![Git Push](git-push.png)
+
+   
 
 🎯 Conclusion
 
