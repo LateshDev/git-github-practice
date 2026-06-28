@@ -41,7 +41,7 @@ git push origin main
    syntax - git init
    
 
-   ![Git Init](git-commit.png)
+   ![Git Init] (git-commit.png)
 
    
 
@@ -63,7 +63,7 @@ git push origin main
     syntax - git commit -m "your message"
 
 
-   ![Git Commit](git-commit.png)
+   ![Git Commit] (git-commit.png)
 
    
 
@@ -74,7 +74,7 @@ git push origin main
    syntax - git push -u origin main
 
 
-   ![Git Push](git-push.png)
+   ![Git Push] (git-push.png)
 
    
 
