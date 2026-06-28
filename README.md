@@ -46,6 +46,7 @@ git push origin main
 
 💻 Flow of Git Commands
 
+
 1. Git int -
 
    git init initializes a new Git repository in your project folder. It creates a hidden .git directory where Git stores the project's history and configuration.
