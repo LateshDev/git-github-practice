@@ -96,6 +96,21 @@ git push origin main
 Git commands provide a systematic way to manage code versions and collaboration. By using commands like git add, git commit, and git push, developers can track changes, maintain history, and share code efficiently. Understanding both theory and syntax ensures better control over projects and makes development more organized and reliable.
 
 
+👨‍💻 Author
+Latesh Padaliya
+
+🎓 B.Tech Computer Science Engineering Student
+
+🌱 Aspiring Full Stack Developer
+
+GitHub: https://github.com/LateshDev
+
+LinkedIn: https://www.linkedin.com/in/latesh-padaliya
+
+⭐ Support
+If you like this project, consider giving it a ⭐ on GitHub.
+
+
 
 
 
